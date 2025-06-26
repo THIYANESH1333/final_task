@@ -1,0 +1,64 @@
+.dashboard-container {
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.dashboard-title {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #2b6777;
+}
+
+.dashboard-welcome-card {
+  background-color: #f0f9ff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.dashboard-stats {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stat-card {
+  background-color: #fff4e3;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stat-card h3 {
+  margin-bottom: 0.5rem;
+  color: #ff8c42;
+}
+
+.recent-events {
+  background-color: #e2fced;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.recent-events h2 {
+  color: #3c9d9b;
+  margin-bottom: 1rem;
+}
+
+.recent-events ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.recent-events li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}

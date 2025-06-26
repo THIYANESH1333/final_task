@@ -1,0 +1,16 @@
+.admin-page {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  background-color: #f6fbfd;
+  min-height: 80vh;
+}
+
+.admin-page h1 {
+  color: #2b6777;
+  margin-bottom: 1rem;
+}
+
+.admin-page p {
+  font-size: 1.1rem;
+  color: #444;
+}
